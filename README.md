@@ -4,7 +4,9 @@ Neji é um prototipo criado para servir como um gestor eficiente de estoques par
 Essa é o primeiro modelo idealizado para servir como uma pagina online do projeto que ainda esta sendo desenvolvido. <br>
 
 ![image](https://github.com/user-attachments/assets/d31a7422-d792-47d7-8cfd-02202cf3be81)
-
+<p>
+ <strong>Link para visualização: <br> https://dycarlossantana.github.io/Projeto_Negi/</strong>
+</p>
 <p>
   <strong>
     Com a ultilização de: <br>
